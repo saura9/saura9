@@ -1,6 +1,6 @@
 # 💫 Hi there! I'm Saurav 👋
 
-I'm a passionate and motivated developer currently diving deep into Full-Stack Development, with a strong focus on **Java, Spring Boot, Web Development**, and hands-on experience with projects like **Employee Management Systems**, **BookMyShow Clone**, and more.
+I'm a passionate and motivated developer currently diving deep into Full-Stack Development, with a strong focus on **Java, Spring Boot, Web Development**.
 
 ---
 
